@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "src": "https://assets.dryicons.com/uploads/icon/svg/2153/television.svg",
+      "itemName": "T.V",
+      "Price": "3001"
+    },
+    {
+      "id": 2,
+      "src": "https://assets.dryicons.com/uploads/icon/svg/9175/f294c3d3-7ab4-4c40-a215-8e505821fad0.svg",
+      "itemName": "Laptop",
+      "Price": "2001"
+    },
+    {
+      "id": 3,
+      "src": "https://www.shutterstock.com/shutterstock/photos/2188936827/display_1500/stock-vector-happy-boy-child-sit-at-desk-studying-online-on-computer-smiling-kid-use-laptop-having-remote-class-2188936827.jpg",
+      "itemName": "PC",
+      "Price": "300001"
+    },
+    {
+      "id": 4,
+      "src": "https://assets.dryicons.com/uploads/icon/svg/9974/c4c9f63c-5fb2-4b1c-a42c-13dc548d9592.svg",
+      "itemName": "House",
+      "Price": "10000000"
+    }
+  ]
+  
+}
